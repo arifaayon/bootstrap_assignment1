@@ -1,0 +1,179 @@
+/*Media CSS file*/
+
+
+/*Extra Small Device*/
+
+@media (max-width: 767px) {
+    /*Custom CSS file*/
+    .padding_right_disable {
+        padding-right: 0px;
+    }
+    .header {
+        min-height: 100px;
+        background-color: #A2CBFF;
+        margin-top: 5px;
+    }
+    .brand,
+    .global_nav,
+    .tools {
+        margin-top: 5px;
+        background-color: #D7EAFF;
+        min-height: 20px;
+        text-align: center;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .hero {
+        min-height: 80px;
+        background-color: #A2CBFF;
+        margin-top: 5px;
+    }
+    .hero_action {
+        background-color: #D7EAFF;
+        text-align: center;
+        min-height: 25px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .ad {
+        margin-top: 10px;
+        background-color: #6EABE2;
+        text-align: center;
+        height: 30px;
+    }
+    .body_left {
+        padding-top: 1px;
+        min-height: 200px;
+        background-color: #A2CBFF;
+        margin-top: 10px;
+        padding-right: 10px;
+    }
+    .article_feature {
+        background-color: #D7EAFF;
+        text-align: center;
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .article_listing {
+        background-color: #D7EAFF;
+        text-align: center;
+        height: 60px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .sidebar {
+        min-height: 460px;
+        background-color: #A2CBFF;
+        margin-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .sidebar h4 {
+        padding-top: 10px;
+    }
+    .sidebar_feature {
+        background-color: #D7EAFF;
+        text-align: center;
+        min-height: 400px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .footer {
+        min-height: 20px;
+        background-color: #A2CBFF;
+    }
+}
+
+
+/*Small Device*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /*Custom CSS file*/
+    .padding_right_disable {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .header {
+        min-height: 90px;
+        background-color: #A2CBFF;
+        margin-top: 10px;
+    }
+    .brand,
+    .global_nav,
+    .tools {
+        margin-top: 15px;
+        background-color: #D7EAFF;
+        min-height: 30px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .hero {
+        min-height: 130px;
+        background-color: #A2CBFF;
+        margin-top: 10px;
+    }
+    .hero_feature,
+    .hero_action {
+        background-color: #D7EAFF;
+        text-align: center;
+        min-height: 70px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .ad {
+        margin-top: 10px;
+        background-color: #6EABE2;
+        text-align: center;
+        height: 130px;
+    }
+    .body_left {
+        min-height: 300px;
+        background-color: #A2CBFF;
+        margin-top: 10px;
+        padding-right: 10px;
+    }
+    .article_feature {
+        background-color: #D7EAFF;
+        text-align: center;
+        height: 130px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .article_listing {
+        background-color: #D7EAFF;
+        text-align: center;
+        height: 130px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .sidebar {
+        min-height: 80px;
+        background-color: #A2CBFF;
+        margin-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .sidebar_feature {
+        background-color: #D7EAFF;
+        text-align: center;
+        min-height: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .footer {
+        min-height: 20px;
+        background-color: #A2CBFF;
+    }
+}
+
+
+/*Medium Device*/
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+
+/*Large Device*/
+
+@media (min-width: 1200px) {}

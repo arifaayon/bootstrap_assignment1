@@ -1,0 +1,86 @@
+/*Custom CSS file*/
+
+.padding_right_disable {
+    padding-right: 0px;
+}
+
+.header {
+    min-height: 90px;
+    background-color: #A2CBFF;
+    margin-top: 10px;
+}
+
+.brand,
+.global_nav,
+.tools {
+    margin-top: 15px;
+    background-color: #D7EAFF;
+    min-height: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.hero {
+    min-height: 130px;
+    background-color: #A2CBFF;
+    margin-top: 10px;
+}
+
+.hero_feature,
+.hero_action {
+    background-color: #D7EAFF;
+    text-align: center;
+    min-height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ad {
+    margin-top: 10px;
+    
+    background-color: #6EABE2;
+    text-align: center;
+    height: 130px;
+}
+
+.body_left {
+    min-height: 450px;
+    background-color: #A2CBFF;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.article_feature,
+.article_listing {
+    background-color: #D7EAFF;
+    text-align: center;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sidebar {
+    min-height: 460px;
+    background-color: #A2CBFF;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sidebar h4 {
+    padding-top: 10px;
+}
+
+.sidebar_feature {
+    background-color: #D7EAFF;
+    text-align: center;
+    min-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    min-height: 20px;
+    background-color: #A2CBFF;
+}
